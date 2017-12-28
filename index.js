@@ -1,4 +1,4 @@
 module.exports = {
-  path: require('./path'),
-  update: require('./update')
+  path: require('./src/path'),
+  update: require('./src/update')
 }
