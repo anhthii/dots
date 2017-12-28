@@ -1,5 +1,5 @@
 const t = require('tap')
-const dots = require('.')
+const dots = require('..')
 
 const prototype = {
   foo: {
